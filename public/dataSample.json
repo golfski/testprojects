@@ -1,0 +1,16 @@
+{
+  "name": "Sample Project",
+  "version": "1.0.0",
+  "description": "A simple example JSON file",
+  "author": {
+    "name": "Jane Doe",
+    "email": "jane@example.com"
+  },
+  "tags": ["example", "json", "demo"],
+  "active": true,
+  "settings": {
+    "theme": "light",
+    "notifications": false,
+    "maxItems": 25
+  }
+}
